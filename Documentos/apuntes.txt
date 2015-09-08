@@ -1,0 +1,29 @@
+AMBITO
+1.- public variable;
+Visible desde cualquier lugar
+
+private variable;
+Visible desde la clase
+
+protected variable;
+Visible solo dentro misma clase y subclases
+
+variable;
+Visible en el paquete
+
+========================================
+
+//Esta es una variable de instancia
+public variable;
+
+//Es una variable de clase
+static 
+
+//No se puede editar despues de sus primera asignacion
+final 
+
+final int numero;
+numero = 0;
+
+final int numero = 0;
+
